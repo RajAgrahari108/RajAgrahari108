@@ -1,24 +1,56 @@
-<h1 align="center">Hi 👋, I'm Raj Agrahari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajagrahari108&label=Profile%20views&color=0e75b6&style=flat" alt="rajagrahari108" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajagrahari108" alt="rajagrahari108" /></a> </p>
-
-- 📫 How to reach me **raj.agr2002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajagrahari108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajagrahari108" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rajagrahari108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajagrahari108" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajagrahari108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajagrahari108" height="30" width="40" /></a>
+<!-- Profile Header Image -->
+<p align="center">
+  <img src="https://github.com/rajagrahari/rajagrahari/blob/main/banner.png" alt="Raj Agrahari - Full Stack Developer" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Raj Agrahari</h1>
+<h3 align="center">🚀 Frontend & Java Full Stack Developer | Passionate Coder | Problem Solver</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajagrahari108&show_icons=true&locale=en&layout=compact" alt="rajagrahari108" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajagrahari108&show_icons=true&locale=en" alt="rajagrahari108" /></p>
+### 🧑‍💻 About Me
+- 🌱 I’m currently improving my **DSA skills on LeetCode** and building **Full Stack Projects**
+- 💻 Skilled in **HTML, CSS, JavaScript, React, Java, C++, Oracle, MySQL**
+- ⚡ Love solving coding challenges and learning new technologies  
+- 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
+- 🎯 Goal: To become a **Software Engineer** in a top tech company
+- 📫 Reach me at **[rajagrahari@gmail.com](mailto:rajagrahari@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajagrahari108&" alt="rajagrahari108" /></p>
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+#### ☕ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,hibernate" />
+</p>
+
+#### 🧠 Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+</p>
+
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/rajagrahari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://leetcode.com/rajagrahari" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40"/></a>
+  <a href="mailto:rajagrahari@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Java+Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast&center=true&width=500&height=50">
+</p>
+
+---
+
+⭐️ From [Raj Agrahari](https://github.com/rajagrahari)
