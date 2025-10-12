@@ -1,4 +1,5 @@
 <!-- Profile Header Image -->
+
 <p align="center">
   <img src="https://github.com/rajagrahari/rajagrahari/blob/main/banner.png" alt="Raj Agrahari - Full Stack Developer" width="100%">
 </p>
@@ -32,7 +33,29 @@
 
 #### 🧠 Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=,git,github,vscode" />
+</p>
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajagrahari108&show_icons=true&theme=radical&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&bg_color=0d1117&hide_border=true" alt="Raj's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajagrahari108&theme=radical&background=0d1117&ring=50fa7b&fire=ff79c6&currStreakLabel=ffb86c&hide_border=true" alt="Raj's GitHub streak" width="48%"/>
+</p>
+
+---
+
+### 🌈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajagrahari108&bg_color=0d1117&color=a855f7&line=6366f1&point=f472b6&area=true&hide_border=true" alt="Raj's contribution graph"/>
+</p>
+
+### 📊 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rajagrahari108?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" alt="Raj's LeetCode Stats" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/rajagrahari108?theme=dark&font=JetBrains%20Mono&ext=activity&border=0&radius=8" alt="Raj's LeetCode Contribution Graph" width="48%"/>
 </p>
 
 
