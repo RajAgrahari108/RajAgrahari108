@@ -1,21 +1,34 @@
 <!-- Profile Header Image -->
 
 <p align="center">
-  <img src="https://github.com/rajagrahari/rajagrahari/blob/main/banner.png" alt="Raj Agrahari - Full Stack Developer" width="100%">
+  
+  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" alt="Raj Agrahari - Full Stack Developer" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Raj Agrahari</h1>
-<h3 align="center">🚀 Frontend & Java Full Stack Developer | Passionate Coder | Problem Solver</h3>
+<h1 align="center">### Hi there  , I am Raj Agrahari!! </h1>
+<h3 align="center">🚀 Frontend & Java Full Stack Developer | Passionate Coder | Problem Solver |  Explorer | Competitive </h3>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🌱 I’m currently improving my **DSA skills on LeetCode** and building **Full Stack Projects**
+- 🔭 I’m interested in Competitive programming and Web development
 - 💻 Skilled in **HTML, CSS, JavaScript, React, Java, C++, Oracle, MySQL**
-- ⚡ Love solving coding challenges and learning new technologies  
+- ⚡ Love solving coding challenges and learning new technologies
+- 👯 I’m looking to collaborate on Open source projects
+- 💬 Ask me about Python, C,Java, Git, GitHub, Web Development
 - 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
 - 🎯 Goal: To become a **Software Engineer** in a top tech company
-- 📫 Reach me at **[rajagrahari@gmail.com](mailto:rajagrahari@gmail.com)**
+- 💼 Portfolio - Portfolio
+- 📫 How to reach me: linkedin:@Rajagrahari108, Instagram@Rajagrahari108
+- 📫 Reach me at **[rajagrahari@gmail.com](mailto:raj.agr2002@gmail.com)**
+- 😄 Pronouns: He/His
+
+
+
+
+
+
 
 ---
 
@@ -63,9 +76,10 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/rajagrahari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://leetcode.com/rajagrahari" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40"/></a>
-  <a href="mailto:rajagrahari@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/rajagrahari108" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://leetcode.com/rajagrahari108" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40"/></a>
+  <a href="mailto:raj.agr2002@gmail.com
+"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -76,4 +90,4 @@
 
 ---
 
-⭐️ From [Raj Agrahari](https://github.com/rajagrahari)
+⭐️ From [Raj Agrahari](https://github.com/rajagrahari108)
