@@ -2,8 +2,7 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" alt="Raj Agrahari - Full Stack Developer" width="100%">
-</p>
+  
 
 <h1 align="center">### Hi there  , I am Raj Agrahari!! </h1>
 <h3 align="center">🚀 Frontend & Java Full Stack Developer | Passionate Coder | Problem Solver |  Explorer | Competitive </h3>
@@ -27,6 +26,9 @@
 
 
 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajagrahari108&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" /> </p>
 
 
 
