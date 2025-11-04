@@ -1,4 +1,7 @@
 <!-- Profile Header Image -->
+<!-- GitHub Profile Banner -->
+
+
 
 <p align="center">
   
@@ -19,7 +22,10 @@
 - 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
 - 🎯 Goal: To become a **Software Engineer** in a top tech company
 - 💼 Portfolio - Portfolio
-- 📫 How to reach me: linkedin:@Rajagrahari108, Instagram@Rajagrahari108
+- 📫 **How to reach me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@RajAgrahari108-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajagrahari108)  
+[![Instagram](https://img.shields.io/badge/Instagram-@RajAgrahari108-purple?style=flat&logo=instagram)](https://www.instagram.com/rajagrahari108)
+
 - 📫 Reach me at **[rajagrahari@gmail.com](mailto:raj.agr2002@gmail.com)**
 - 😄 Pronouns: He/His
 
