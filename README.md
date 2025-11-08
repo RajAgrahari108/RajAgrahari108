@@ -28,17 +28,17 @@
 - 📫 Reach me: **[raj.agr2002@gmail.com](mailto:raj.agr2002@gmail.com)**
 - 😄 Pronouns: He/His
 
-## 🌐 Connect
+
+## 🌐 Connect With Me
 <p align="center">
- <p align="center">
   <a href="https://linkedin.com/in/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-RajAgrahari108-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://instagram.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/Instagram-@RajAgrahari108-purple?style=flat&logo=instagram" alt="Instagram"></a>
-<a href="https://leetcode.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LeetCode-RajAgrahari108-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
-</p>
+  <a href="https://x.com/RajAgrahar108" target="_blank"><img src="https://img.shields.io/badge/Twitter-@RajAgrahar108-black?style=flat&logo=x" alt="Twitter"></a>
+  <a href="https://instagram.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/Instagram-@RajAgrahari108-purple?style=flat&logo=instagram" alt="Instagram"></a>
+  <a href="https://leetcode.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LeetCode-RajAgrahari108-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
+  <a href="mailto:raj.agr2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-raj.agr2002@gmail.com-red?style=flat&logo=gmail" alt="Gmail"></a>
 </p>
 
 ---
-
 ## 📊 GitHub Analytics & Trophies
 
 <p align="center">
