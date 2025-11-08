@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <!-- GitHub Profile Banner -->
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Java+Full+Stack+Engineer;Problem+Solver;Continuous+Learner;&center=true&width=500&height=50&color=50fa7b&size=25"> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=rajagrahari108&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" /> </p>
 
 
 <p align="center">
@@ -13,28 +13,24 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I’m currently improving my **DSA skills on LeetCode** and building **Full Stack Projects**
-- 🔭 I’m interested in Competitive programming and Web development
-- 💻 Skilled in **HTML, CSS, JavaScript, React, Java, C++, Oracle, MySQL**
-- ⚡ Love solving coding challenges and learning new technologies
-- 👯 I’m looking to collaborate on Open source projects
-- 💬 Ask me about Python, C,Java, Git, GitHub, Web Development
-- 💬 Ask me about **Frontend Development, Java Backend, or Database Design**
-- 🎯 Goal: To become a **Software Engineer** in a top tech company
-- 💼 Portfolio - Portfolio
-- 📫 **How to reach me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@RajAgrahari108-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajagrahari108)  
-[![Instagram](https://img.shields.io/badge/Instagram-@RajAgrahari108-purple?style=flat&logo=instagram)](https://www.instagram.com/rajagrahari108)
-
-- 📫 Reach me at **[rajagrahari@gmail.com](mailto:raj.agr2002@gmail.com)**
+- 🌱 Currently improving **DSA & Full Stack Development**
+- 💻 Skilled in **React, Java, JavaScript, MySQL, C, HTML, CSS**
+- ⚡ Passionate about **problem solving & learning new technologies**
+- 👯 Open to **collaborating on open source projects**
+- 💬 Ask me about **Frontend, Java Backend, or Web Development**
+- 🎯 Goal: **Software Engineer** at a top tech company
+- 📫 Reach me: **[raj.agr2002@gmail.com](mailto:raj.agr2002@gmail.com)**
 - 😄 Pronouns: He/His
 
+### 🌐 Connect
+<a href="https://linkedin.com/in/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-RajAgrahari108-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://instagram.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/Instagram-@RajAgrahari108-purple?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://leetcode.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LeetCode-RajAgrahari108-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
 
 
 
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajagrahari108&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajagrahari108&label=👁️%20Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" /> </p> -->
 
 
 
