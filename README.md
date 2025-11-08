@@ -30,15 +30,11 @@
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/rajagrahari108" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rajagrahari108-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/rajagrahari108" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@rajagrahari108-pink?style=flat-square&logo=instagram" alt="Instagram">
-  </a>
-  <a href="https://leetcode.com/rajagrahari108" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-rajagrahari108-orange?style=flat-square&logo=leetcode" alt="LeetCode">
-  </a>
+ <p align="center">
+  <a href="https://linkedin.com/in/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-RajAgrahari108-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://instagram.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/Instagram-@RajAgrahari108-purple?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://leetcode.com/rajagrahari108" target="_blank"><img src="https://img.shields.io/badge/LeetCode-RajAgrahari108-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
+</p>
 </p>
 
 ---
