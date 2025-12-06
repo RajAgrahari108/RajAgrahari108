@@ -54,15 +54,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ☕ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,node js,express js" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,sequelize orm" />
-</p>
+☕ Backend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postman,sequelize" /> </p>
 
 ### ⚙️ Tools & Technologies
 <p align="left">
