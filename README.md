@@ -56,12 +56,12 @@
 
 ### ☕ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,node js,express js" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,sequelize orm" />
 </p>
 
 ### ⚙️ Tools & Technologies
